@@ -11,7 +11,6 @@ Instruções de Uso:
 Se estiver usando o Jupyter Notebook com Anaconda, é necessário ajustar o diretório para o correto funcionamento do código. Certifique-se de definir corretamente o diretório onde o arquivo JSON está localizado.
 
 
-# ADICIONAR CAMINHO JSON
 base_conhecimento: dict = carregarconhecimento('caminho/do/seu/diretorio')
 
 salvarconhecimento('caminho/do/seu/diretorio', base_conhecimento)
