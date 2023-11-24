@@ -19,7 +19,7 @@ base_conhecimento: dict = carregarconhecimento('caminho/do/seu/diretorio')
 salvarconhecimento('caminho/do/seu/diretorio', base_conhecimento)
 ```
 
-Se estiver usando o Google Colab, será necessário adicionar a base de conhecimento nos "Arquivos" da plataforma como é apresentado na imagem ```img_colab.jpg```.
+Se estiver usando o Google Colab, será necessário adicionar a base de conhecimento nos "Arquivos" da plataforma.
 
 ![img_colab.jpg](https://github.com/MellMatsuda/Chatbacana/blob/main/Chatbacana/img_colab.jpg?raw=true)
 
