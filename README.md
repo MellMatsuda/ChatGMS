@@ -21,6 +21,7 @@ salvarconhecimento('caminho/do/seu/diretorio', base_conhecimento)
 
 Se estiver usando o Google Colab, será necessário adicionar a base de conhecimento nos "Arquivos" da plataforma como é apresentado na imagem ```img_colab.jpg```.
 
+![img_colab.jpg](https://github.com/MellMatsuda/Chatbacana/blob/main/Chatbacana/img_colab.jpg?raw=true)
 
 ### 2. Banco de Conhecimento em JSON:
 O arquivo JSON contém perguntas e respostas relacionadas a PNL e IA. Certifique-se de que o arquivo JSON está presente no diretório correto.
