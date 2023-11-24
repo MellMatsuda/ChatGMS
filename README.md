@@ -5,6 +5,8 @@ Grupo: Guilherme Pires, Mell Matsuda e Samuel Eichner
 
 Este projeto é um chatbot simples que utiliza um banco de conhecimento em JSON para responder a perguntas sobre Processamento de Linguagem Natural (PNL) e Inteligência Artificial (IA). O chatbot é projetado para funcionar em ambientes como Jupyter Notebook com Anaconda ou diretamente em uma máquina virtual no Google Colab.
 
+Trabalho realizado para a disciplina de Introdução a Inteligência Artificial na Área da Saúde.
+
 ## **Instruções de Uso:**
 ### 1. Ambiente de Execução:
 Se estiver usando o Jupyter Notebook com Anaconda, é necessário ajustar o diretório para o correto funcionamento do código. Certifique-se de definir corretamente o diretório onde o arquivo JSON está localizado.
