@@ -1,6 +1,6 @@
-Grupo: Guilherme Pires, Mell Matsuda e Samuel Eichner
+ChatGMS: ChatBot com Banco de Conhecimento em JSON 😎
 
-Chatbacana com Banco de Conhecimento em JSON 😎
+Grupo: Guilherme Pires, Mell Matsuda e Samuel Eichner
 
 Descrição:
 
