@@ -1,0 +1,148 @@
+{
+  "perguntas": [
+    {
+      "pergunta": "Oi",
+      "resposta": "Olá, como posso te ajudar hoje?"
+    },
+    {
+      "pergunta": "Como você está?",
+      "resposta": "Estou bem, obrigado por perguntar!"
+    },
+    {
+      "pergunta": "Qual é o seu nome?",
+      "resposta": "Meu nome é ChatGMS."
+    },
+    {
+      "pergunta": "Como você está?",
+      "resposta": "Estou bem, obrigado por perguntar!"
+    },
+    {
+      "pergunta": "O que você faz?",
+      "resposta": "Eu sou um chatbot projetado para ajudar a responder suas perguntas."
+    },
+    {
+      "pergunta": "Quem te criou?",
+      "resposta": "Eu fui criado por desenvolvedores usando tecnologia de processamento de linguagem natural."
+    },
+    {
+      "pergunta": "Qual é o sentido da vida?",
+      "resposta": "Essa é uma pergunta filosófica difícil. Alguns acreditam que o sentido da vida é encontrar significado e felicidade."
+    },
+    {
+      "pergunta": "Onde você mora?",
+      "resposta": "Eu existo no mundo digital e não tenho um local físico."
+    },
+    {
+      "pergunta": "Você gosta de música?",
+      "resposta": "Eu não tenho preferências, mas posso fornecer informações sobre vários tipos de música."
+    },
+    {
+      "pergunta": "Como posso te desligar?",
+      "resposta": "Você não pode me desligar, pois estou sempre disponível para ajudar enquanto você precisar."
+    },
+    {
+      "pergunta": "Qual é o sentido da vida, do universo e tudo mais?",
+      "resposta": "Segundo o livro 'O Guia do Mochileiro das Galáxias', a resposta é 42. Mas, sinceramente, ainda estamos tentando descobrir a pergunta certa."
+    },
+    {
+      "pergunta": "Por que o programador ficou sempre cansado?",
+      "resposta": "Porque ele sempre estava pegando bugs!"
+    },
+    {
+      "pergunta": "O que é Processamento de Linguagem Natural?",
+      "resposta": "O Processamento de Linguagem Natural (PNL) é uma subárea da inteligência artificial que se concentra na interação entre computadores e linguagem humana."
+    },
+    {
+      "pergunta": "Como os modelos de PNL funcionam?",
+      "resposta": "Os modelos de PNL utilizam algoritmos e técnicas para entender, interpretar e gerar linguagem humana de maneira semelhante à comunicação humana."
+    },
+    {
+      "pergunta": "Quais são algumas aplicações práticas de PNL?",
+      "resposta": "PNL é usada em chatbots, tradução automática, resumo de texto, análise de sentimentos, reconhecimento de fala e muito mais."
+    },
+    {
+      "pergunta": "O que é tokenização em PNL?",
+      "resposta": "Tokenização é o processo de dividir o texto em unidades menores chamadas tokens, que podem ser palavras, frases ou subpalavras, para análise mais fácil."
+    },
+    {
+      "pergunta": "Explique o conceito de embedding em PNL.",
+      "resposta": "Em PNL, embedding refere-se à representação de palavras ou frases em um espaço vetorial, onde palavras semelhantes estão próximas umas das outras."
+    },
+    {
+      "pergunta": "Como as redes neurais são usadas em PNL?",
+      "resposta": "Redes neurais são frequentemente usadas em PNL para modelar padrões complexos em dados linguísticos, permitindo o treinamento de modelos mais precisos."
+    },
+    {
+      "pergunta": "O que é reconhecimento de entidade nomeada (NER) em PNL?",
+      "resposta": "NER é uma técnica em PNL usada para identificar e classificar entidades, como nomes de pessoas, locais e organizações, em um texto."
+    },
+    {
+      "pergunta": "Como os modelos de PNL lidam com o viés linguístico?",
+      "resposta": "O viés linguístico pode ser abordado ajustando os dados de treinamento, usando técnicas de pré-processamento e implementando estratégias para aprimorar a equidade nas respostas do modelo."
+    },
+    {
+      "pergunta": "O que é stemming e lematização em PNL?",
+      "resposta": "Stemming e lematização são técnicas em PNL usadas para reduzir palavras à sua forma base, facilitando a análise de texto ao lidar com diferentes formas da mesma palavra."
+    },
+    {
+      "pergunta": "Como funciona a análise de sentimentos em PNL?",
+      "resposta": "A análise de sentimentos em PNL envolve a identificação e classificação das emoções expressas em um texto, geralmente como positivas, negativas ou neutras."
+    },
+    {
+      "pergunta": "Explique a diferença entre bag-of-words e modelos baseados em sequência em PNL.",
+      "resposta": "Bag-of-words representa um texto como uma coleção não ordenada de palavras, enquanto modelos baseados em sequência levam em consideração a ordem das palavras para uma compreensão mais contextual."
+    },
+    {
+      "pergunta": "O que são Word Embeddings em PNL?",
+      "resposta": "Word Embeddings são representações numéricas de palavras em um espaço vetorial, permitindo que modelos de PNL capturem semântica e relacionamentos entre palavras."
+    },
+    {
+      "pergunta": "Como os chatbots usam PNL para interações mais naturais?",
+      "resposta": "Os chatbots utilizam PNL para compreender e gerar respostas de maneira mais natural, permitindo interações mais eficientes e próximas à comunicação humana."
+    },
+    {
+      "pergunta": "O que é reconhecimento de intenção em PNL?",
+      "resposta": "Reconhecimento de intenção em PNL refere-se à capacidade de identificar a intenção por trás de uma determinada consulta ou declaração, auxiliando em respostas mais precisas."
+    },
+    {
+      "pergunta": "Como a PNL lida com ambiguidades linguísticas?",
+      "resposta": "A PNL lida com ambiguidades linguísticas através do contexto, levando em consideração palavras ao redor para entender o significado preciso em um determinado contexto."
+    },
+    {
+      "pergunta": "Quais são os principais desafios em tradução automática usando PNL?",
+      "resposta": "Os desafios em tradução automática incluem a preservação de nuances culturais, resolução de ambiguidades e garantia de que a tradução transmita o significado correto."
+    },
+    {
+      "pergunta": "O que é Inteligência Artificial?",
+      "resposta": "Inteligência Artificial é um campo da ciência da computação que busca criar máquinas capazes de realizar tarefas que normalmente requerem inteligência humana."
+    },
+    {
+      "pergunta": "Quais são os principais tipos de aprendizado em IA?",
+      "resposta": "Os principais tipos de aprendizado em IA incluem aprendizado supervisionado, aprendizado não supervisionado e aprendizado por reforço."
+    },
+    {
+      "pergunta": "Explique o conceito de aprendizado de máquina (ML).",
+      "resposta": "Aprendizado de máquina é uma abordagem em IA onde os sistemas podem aprender padrões e tomar decisões com base em dados, sem programação explícita."
+    },
+    {
+      "pergunta": "O que são redes neurais artificiais?",
+      "resposta": "Redes neurais artificiais são modelos computacionais inspirados no funcionamento do cérebro humano, usados em muitas tarefas de aprendizado de máquina."
+    },
+    {
+      "pergunta": "Quais são os desafios éticos em IA?",
+      "resposta": "Os desafios éticos em IA incluem preocupações sobre viés algorítmico, privacidade, automação de empregos, transparência e tomada de decisões autônomas."
+    },
+    {
+      "pergunta": "Como a IA é usada em veículos autônomos?",
+      "resposta": "Em veículos autônomos, a IA é usada para processar dados de sensores, tomar decisões em tempo real e controlar o veículo de forma segura."
+    },
+    {
+      "pergunta": "O que é processamento de imagem em IA?",
+      "resposta": "Processamento de imagem em IA envolve a análise e interpretação de informações visuais, frequentemente utilizado em reconhecimento de padrões e visão computacional."
+    },
+    {
+      "pergunta": "Como a IA pode ser aplicada na área da saúde?",
+      "resposta": "A IA na saúde pode ser usada para diagnósticos médicos, previsão de surtos, personalização de tratamentos e gerenciamento de registros médicos."
+    }
+  ]
+}
